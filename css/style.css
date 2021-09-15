@@ -1,0 +1,13 @@
+.greyborder {
+    border: rgb(180, 180, 180) 1px solid !important;
+}
+.greyback {
+    background-color: rgb(110, 110, 110) !important;
+    color:#FFF;
+}
+
+.rot{
+    color:#F00;
+    font-weight: bold;
+    border: red 2px solid;
+}
